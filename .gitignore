@@ -1,0 +1,6 @@
+node_modules/
+*.log
+temp*.log
+temp_folder/
+.env
+senhas.env
